@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "py_mobile_aat"
+  site-url: "https://hgzech.github.io/py_mobile_aat"
+  description: "A package to help use the mobile AAT."
+  repo-branch: main
+  repo-url: "https://github.com/hgzech/py_mobile_aat"
